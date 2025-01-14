@@ -1,0 +1,6 @@
+.env
+/src/__pycache__/
+/__pycache__/
+/src/cogs/__pycache__/
+twitch_test.py
+/src/main_2.py
